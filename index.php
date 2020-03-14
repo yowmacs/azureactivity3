@@ -2,7 +2,7 @@
 $servername = "macasactivity3.mysql.database.azure.com";
 $username = "yowmacs@macasactivity3";
 $password = "Rayukapeach16";
-$dbname = "activityazure";
+$dbname = "activity3azure";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
